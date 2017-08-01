@@ -4,6 +4,7 @@ Git is free software distributed under the GPL.
 Creating a new branch is quick.
 #sourcetree真的很奇葩？
 Creating a new branch is quick AND simple.
+new task all compete
   ┏┓      ┏┓
 ┏┛┻━━━┛┻┓
 
